@@ -6,7 +6,7 @@ int main ()
     scanf("%d",&n);
     while(n!=0);
     {
-        rem=num%10;
+        rem=n%10;
         prod=prod*rem;
         n=n/10;
     }

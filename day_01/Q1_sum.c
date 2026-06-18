@@ -9,5 +9,5 @@ int main()
         sum=sum+i;
     }
     printf("sum of natural number=%d",sum);
-    return o;
+    return 0;
 }

@@ -10,6 +10,6 @@ int main()
         sum = sum + digit;
         n = n / 10;
     }
-    printf("sum of digits : %d\n"sum);
+    printf("sum of digits : %d\n",sum);
     return 0;
 }

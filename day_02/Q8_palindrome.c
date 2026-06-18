@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int num,temp,rev=o,rem;
+    int num,temp,rev=0,rem;
     printf("enter the number:");
     scanf("%d",&num);
     temp=num;
